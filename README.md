@@ -74,3 +74,9 @@ The dashboard shows bids/asks, mid, spread, order-imbalance, sparkline, and a YE
 ## Notes
 - If your terminal chokes on emojis, set `PYTHONIOENCODING=utf-8` or strip them.
 - The WS feed only renders when book/price updates arrive; quiet markets may appear idle even though the connection is live.
+- Other markets may work, but have not been tested yet.
+
+## License
+
+The MIT License (MIT)
+Copyright (c) 2026 Just3in hatch
