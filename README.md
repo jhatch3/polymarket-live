@@ -78,5 +78,5 @@ The dashboard shows bids/asks, mid, spread, order-imbalance, sparkline, and a YE
 
 ## License
 
-The MIT License (MIT)
-Copyright (c) 2026 Just3in hatch
+- The MIT License (MIT)
+- Copyright (c) 2026 Justin hatch
