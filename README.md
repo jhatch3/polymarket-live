@@ -1,15 +1,20 @@
-﻿# Polymarket BTC Up/Down Live Monitor
+# Polymarket BTC Up/Down Live Monitor
 
 A tiny CLI that fetches Polymarket clob token IDs for BTC 5-minute Up/Down markets and streams their order books via WebSocket.
 
 ## Setup
 1. Install Python 3.10+.
-2. In this folder, create a virtualenv:
+2. Clone this repo onto your machine 
    ```powershell
+   clone https://github.com/jhatch3/polymarket-live.git
+   ```
+3. cd in the folder, and create a virtualenv:
+   ```powershell
+   cd polymarket-live
    python -m venv .venv
    .\.venv\Scripts\activate
    ```
-3. Install deps:
+4. Install deps:
    ```powershell
    pip install -r requirements.txt
    ```
