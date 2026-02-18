@@ -4,7 +4,10 @@ A tiny CLI that fetches Polymarket clob token IDs for BTC 5-minute Up/Down marke
 
 ## Demo 
 
-https://github.com/user-attachments/assets/0d105ec4-3532-45c0-b297-571240fb2da4
+## Get YES/NO tokens for a 5m market
+
+##  Run the live order-book CLI monitor 
+https://github.com/user-attachments/assets/f1d22345-fe2d-4e15-9a3f-f2a2e03701dd
 
 ## Setup
 1. Install Python 3.10+ & Git
