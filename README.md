@@ -2,6 +2,10 @@
 
 A tiny CLI that fetches Polymarket clob token IDs for BTC 5-minute Up/Down markets and streams their order books via WebSocket.
 
+## Demo 
+
+https://github.com/user-attachments/assets/0d105ec4-3532-45c0-b297-571240fb2da4
+
 ## Setup
 1. Install Python 3.10+ & Git
 2. Clone this repo onto your machine 
