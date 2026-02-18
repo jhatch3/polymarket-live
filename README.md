@@ -3,10 +3,10 @@
 A tiny CLI that fetches Polymarket clob token IDs for BTC 5-minute Up/Down markets and streams their order books via WebSocket.
 
 ## Setup
-1. Install Python 3.10+.
+1. Install Python 3.10+ & Git
 2. Clone this repo onto your machine 
    ```powershell
-   clone https://github.com/jhatch3/polymarket-live.git
+   git clone https://github.com/jhatch3/polymarket-live.git
    ```
 3. cd in the folder, and create a virtualenv:
    ```powershell
